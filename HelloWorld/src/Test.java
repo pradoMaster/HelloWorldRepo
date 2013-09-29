@@ -8,7 +8,13 @@ public class Test {
 		
 	}
 	
+
 	public void hotFix(){
+		
+	}
+
+	public void setName(){
+
 		
 	}
 	
