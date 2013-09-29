@@ -33,7 +33,13 @@ public class Test {
 
 		
 	}
+
 	public void setTimeMaster(){
+		
+	}
+
+	public void setTimeDevel(){
+
 		
 	}
 	
