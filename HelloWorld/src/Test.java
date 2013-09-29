@@ -17,6 +17,9 @@ public class Test {
 
 		
 	}
+	public void setLastName(){
+		
+	}
 	
 
 }
