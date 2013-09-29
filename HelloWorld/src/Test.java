@@ -8,5 +8,9 @@ public class Test {
 		
 	}
 	
+	public void setName(){
+		
+	}
+	
 
 }
