@@ -42,6 +42,9 @@ public class Test {
 
 		
 	}
+	public void setSizeDevel(){
+		
+	}
 	
 
 }
