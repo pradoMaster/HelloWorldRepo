@@ -4,5 +4,9 @@ public class Test {
 		
 	}
 	
+	public void hotFix(){
+		
+	}
+	
 
 }
