@@ -4,6 +4,9 @@ public class Test {
 		System.out.println("printing a");
 		
 	}
+	public void setDate(){
+		
+	}
 	
 
 }
