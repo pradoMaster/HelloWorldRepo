@@ -24,7 +24,13 @@ public class Test {
 	public void setGender(){
 		
 	}
+
 	public void setYearMaster(){
+		
+	}
+
+	public void setYearDevel(){
+
 		
 	}
 	
