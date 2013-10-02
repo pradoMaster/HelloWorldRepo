@@ -45,6 +45,9 @@ public class Test {
 	public void setSizeDevel(){
 		
 	}
+	public void setSomeCrap(){
+		
+	}
 	
 
 }
