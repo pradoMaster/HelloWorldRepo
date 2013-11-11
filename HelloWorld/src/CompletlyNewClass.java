@@ -15,4 +15,8 @@ public class CompletlyNewClass {
 void testingMergeProblems3(){
 	 
  }
+
+void testingMergeProblems4(){
+	 
+}
 }
