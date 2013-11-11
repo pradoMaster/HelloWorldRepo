@@ -7,4 +7,8 @@ public class CompletlyNewClass {
  void testingMergeProblems1(){
 	 
  }
+ 
+ void testingMergeProblems2(){
+	 
+ }
 }
