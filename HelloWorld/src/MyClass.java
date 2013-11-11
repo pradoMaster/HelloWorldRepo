@@ -9,5 +9,8 @@ public class MyClass {
 	void myMethod(){
 		
 	}
+void myMethod2(){
+		
+	}
 
 }
