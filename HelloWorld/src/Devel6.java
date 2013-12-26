@@ -1,5 +1,5 @@
 
-public class Devel5 {
+public class Devel6 {
 	public void test(){
 		
 	}
