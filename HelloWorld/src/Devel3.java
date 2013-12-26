@@ -22,6 +22,10 @@ public class Devel3 {
  public void test5(){
 	 
  }
+ 
+ public void test6(){
+	 
+ }
 
 
 }
