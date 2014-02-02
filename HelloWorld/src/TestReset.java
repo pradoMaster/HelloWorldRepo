@@ -17,5 +17,9 @@ public class TestReset {
 	public void setVolume(){
 		
 	}
+	
+	public void setMin(){
+		
+	}
 
 }
