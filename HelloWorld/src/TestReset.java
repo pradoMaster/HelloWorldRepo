@@ -9,5 +9,9 @@ public class TestReset {
 
 		
 	}
+	
+	public void setSize(){
+		
+	}
 
 }
