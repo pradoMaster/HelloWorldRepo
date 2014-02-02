@@ -13,5 +13,9 @@ public class TestReset {
 	public void setSize(){
 		
 	}
+	
+	public void setVolume(){
+		
+	}
 
 }
