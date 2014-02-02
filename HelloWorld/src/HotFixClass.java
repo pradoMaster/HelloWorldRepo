@@ -21,7 +21,12 @@ public class HotFixClass {
 		
 	}
 	
+
 	public void test5(){
+		
+	}
+	public void test6(){
+
 		
 	}
 
