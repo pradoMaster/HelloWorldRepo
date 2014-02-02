@@ -22,7 +22,13 @@ public class TestReset {
 		
 	}
 	
+
 	public void setRange(){
+		
+	}
+
+	public void setMax(){
+
 		
 	}
 
