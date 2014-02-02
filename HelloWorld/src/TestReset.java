@@ -21,5 +21,9 @@ public class TestReset {
 	public void setMin(){
 		
 	}
+	
+	public void setMax(){
+		
+	}
 
 }
