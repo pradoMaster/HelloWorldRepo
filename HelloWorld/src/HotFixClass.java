@@ -47,5 +47,8 @@ public class HotFixClass {
 	}
 	public void test12(){
 	}
+	public void test13(){
+		
+	}
 
 }
