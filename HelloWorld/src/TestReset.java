@@ -20,5 +20,8 @@ public class TestReset {
 	public void hhgg(){
 		
 	}
+	public void sshh(){
+		
+	}
 
 }
