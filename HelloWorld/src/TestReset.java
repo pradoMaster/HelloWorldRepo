@@ -23,5 +23,8 @@ public class TestReset {
 	public void sshh(){
 		
 	}
+	public void kknn(){
+		
+	}
 
 }
