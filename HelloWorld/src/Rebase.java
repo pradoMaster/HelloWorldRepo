@@ -6,4 +6,7 @@ public class Rebase {
 	void test1(){
 		
 	}
+	void test2(){
+		
+	}
 }
