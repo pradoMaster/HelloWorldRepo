@@ -10,5 +10,8 @@ public class Cube {
 	void v1(){
 		
 	}
+	void v2(){
+		
+	}
 
 }
