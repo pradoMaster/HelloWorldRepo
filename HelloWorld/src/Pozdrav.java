@@ -7,5 +7,8 @@ public class Pozdrav {
 		System.out.println("Why the change is not seen?");
 		System.out.println("Testing hard reset");
 	}
+	void myPozdrav(){
+		
+	}
 
 }
