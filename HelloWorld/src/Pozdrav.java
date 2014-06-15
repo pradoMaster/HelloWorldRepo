@@ -12,5 +12,8 @@ public class Pozdrav {
 	void myPozdrav(){
 		
 	}
+	void myPozdrav1(){
+		
+	}
 
 }
