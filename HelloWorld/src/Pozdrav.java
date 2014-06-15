@@ -6,5 +6,8 @@ public class Pozdrav {
 	void testPozdrav1(){
 		
 	}
+	void testPozdrav2(){
+		
+	}
 
 }
