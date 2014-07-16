@@ -29,5 +29,8 @@ public class Pozdrav {
 	void myPozdrav6(){
 		
 	}
+	void myPozdrav7(){
+		
+	}
 
 }
