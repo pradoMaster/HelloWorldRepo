@@ -32,10 +32,12 @@ public class Pozdrav {
 	void myPozdrav7(){
 		
 	}
+
 	void mypozdrav8(){
 		
 	}
 	void mypozdrav9(){
+
 		
 	}
 
