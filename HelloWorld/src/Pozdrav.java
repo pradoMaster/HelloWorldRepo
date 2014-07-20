@@ -45,6 +45,9 @@ public class Pozdrav {
 	void mypozdrav13(){
 		
 	}
+	void mypozdrav14(){
+		
+	}
 
 
 }
