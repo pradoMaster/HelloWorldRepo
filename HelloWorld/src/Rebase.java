@@ -9,4 +9,7 @@ public class Rebase {
 	void test2(){
 		
 	}
+	void tese3(){
+		
+	}
 }
