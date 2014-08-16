@@ -51,10 +51,6 @@ public class Pozdrav {
 	void mypozdrav15(){
 		
 	}
-	
-	void mypozdrav16(){
-		
-	}
 
 
 
