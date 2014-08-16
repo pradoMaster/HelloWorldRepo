@@ -22,4 +22,7 @@ public class Cube {
 	void v5(){
 		
 	}
+	void v6(){
+		
+	}
 }
