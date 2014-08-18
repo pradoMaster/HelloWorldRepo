@@ -48,6 +48,9 @@ public class Test {
 	public void setSomeCrap(){
 		
 	}
+	void t1(){
+		
+	}
 	
 
 }
