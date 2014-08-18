@@ -51,6 +51,9 @@ public class Test {
 	void t1(){
 		
 	}
+	void t2(){
+		
+	}
 	
 
 }
