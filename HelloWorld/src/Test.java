@@ -51,6 +51,9 @@ public class Test {
 	public void crapAgain(){
 		
 	}
+	public void test(){
+		
+	}
 	
 
 }
