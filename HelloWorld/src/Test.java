@@ -51,6 +51,12 @@ public class Test {
 	public void test(){
 		
 	}
+	public void test1(){
+		
+	}
+	void test2(){
+		
+	}
 	
 
 }
