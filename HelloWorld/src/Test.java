@@ -60,6 +60,9 @@ public class Test {
 	void test3(){
 		
 	}
+	void test4(){
+		
+	}
 	
 
 }
