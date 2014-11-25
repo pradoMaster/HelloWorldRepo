@@ -63,6 +63,9 @@ public class Test {
 	void test4(){
 		
 	}
+	void test5(){
+		
+	}
 	
 
 }
